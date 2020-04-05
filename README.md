@@ -12,4 +12,33 @@ Only Manager and Administrator can delete car information.
 
 
 Database Design:
-![image](https://github.com/flamefiby/ASP.Net-Project-/blob/master/Screencast/Database/Car.PNG)
+
+Table Car:
+![image](https://github.com/flamefiby/ASP.Net-Project-/tree/master/Screencast/Database/Car.PNG)
+
+Table Customer:
+![image]((https://github.com/flamefiby/ASP.Net-Project-/tree/master/Screencast/Database/Customer.PNG)
+
+Table Insurance:
+![image]((https://github.com/flamefiby/ASP.Net-Project-/tree/master/Screencast/Database/insurance.PNG)
+
+
+ASP.NET Core MVC Web Application:
+
+Home Page:
+![image](https://github.com/flamefiby/ASP.Net-Project-/tree/master/Screencast/home.PNG)
+
+List Page:
+![image](https://github.com/flamefiby/ASP.Net-Project-/tree/master/Screencast/list.PNG)
+
+ConnectionString:
+![image](https://github.com/flamefiby/ASP.Net-Project-/tree/master/Screencast/connectionString.PNG)
+
+Car Page:
+![image](https://github.com/flamefiby/ASP.Net-Project-/tree/master/Screencast/carPage.PNG)
+
+Customer Page:
+![image](https://github.com/flamefiby/ASP.Net-Project-/tree/master/Screencast/customerPage.PNG)
+
+Insurance Page:
+![image](https://github.com/flamefiby/ASP.Net-Project-/tree/master/Screencast/InsurancePage.PNG)
