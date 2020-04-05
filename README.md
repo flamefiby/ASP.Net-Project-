@@ -10,4 +10,6 @@ Only manager and Administrator can edit insurance information.
 Only Manager and Administrator can delete car information.
 
 
-Database Design
+
+Database Design:
+![image](https://github.com/flamefiby/ASP.Net-Project-/tree/master/Screencast/Database/Car.png)
