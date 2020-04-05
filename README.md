@@ -12,4 +12,4 @@ Only Manager and Administrator can delete car information.
 
 
 Database Design:
-![image](https://github.com/flamefiby/ASP.Net-Project-/tree/master/Screencast/Database/Car.png)
+![image](https://github.com/flamefiby/ASP.Net-Project-/blob/master/Screencast/Database/Car.PNG)
